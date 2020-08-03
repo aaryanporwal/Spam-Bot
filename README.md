@@ -11,3 +11,5 @@ pip3 install pyautogui
 python spambot.py
 ```
 *NOTE*: The python script will start throwing messages in 5 seconds, so switch to the application which you want to spam in under 5 seconds.
+
+### To stop the program just press ctrl+c in your IDE or terminal where the script was running
