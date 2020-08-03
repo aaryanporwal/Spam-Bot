@@ -1,8 +1,9 @@
 # Spam-Bot
-A spam bot which can bombard with messages anywhere 😈 . Use with caution.
+A spam bot which can bombard with messages anywhere 😈 . Use with caution. (It prints out all dialogues of beemovie, but you can change that to any file in the script)
 
 ## Working:
 ![](workingOfBot.gif)
+
 
 ## Steps:
 1.  First run the following command to install pyautogui library dependency:
