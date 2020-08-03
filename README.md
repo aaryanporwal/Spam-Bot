@@ -1,6 +1,9 @@
 # Spam-Bot
 A spam bot which can bombard with messages anywhere 😈 . Use with caution.
 
+## Working:
+![](workingOfBot.gif)
+
 ## Steps:
 1.  First run the following command to install pyautogui library dependency:
 ```bash
