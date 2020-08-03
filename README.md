@@ -10,4 +10,4 @@ pip3 install pyautogui
 ```bash
 python spambot.py
 ```
-*NOTE*:The python script will start throwing messages in 5 seconds, so switch to the application which you want to spam in under 5 seconds.
+*NOTE*: The python script will start throwing messages in 5 seconds, so switch to the application which you want to spam in under 5 seconds.
